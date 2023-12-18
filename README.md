@@ -9,14 +9,15 @@ I'm a passionate Frontend Developer committed to creating innovative web solutio
 - ⚡ Fun fact: I enjoy coding, traveling, and cooking.
 
 ## Skills
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React, Redux, Material-UI, Mantine
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries**: React, Redux, Angular, Material-UI, tailwindCSS, Mantine, Angular Material
 - **Tools**: GitHub, Figma, Agile (Scrum)
 - **Databases**: MongoDB
 - **Other**: UX/Usability, API Integration
 
 ## My Work
 - [Music War App](https://github.com/jacob-kourieh/Music-War-App)
+- [Autobahn App](https://github.com/jacob-kourieh/Jacob-Autobahn-App)
 - [Interval App](https://github.com/jacob-kourieh/Inlamning-Interval-App-JACOB_K)
 - [My Website](https://github.com/jacob-kourieh/jacob-website.github.io)
 - [My Klarna Payments](https://github.com/jacob-kourieh/My-Klarna-Payments)
